@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Beefyboicodes
+-Bcomm/Bsc Computer Science @UBC
 - 👀 I’m interested in Python, Java, Lua, and C++
-- 🌱 I’m currently learning Basics of Python and Lua
-- 💞️ I’m looking to collaborate on Small Gaming Projects Either on Roblox Studio or outside of that.
-- 📫 How to reach me ✨My Discord Is Beef Is Healthy For You #1362✨and Direct Messages are Always Open!
+- 🌱 I’m currently learning Systematic Program Design and Python. 
+- 📫 Feel free to reach out. 
 - ✨JOB TITLE: Student✨
 
 <!---
